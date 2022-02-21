@@ -98,3 +98,4 @@ public class Employee {
 	}
 }
 
+![exercicio-fixação](https://user-images.githubusercontent.com/61166475/155026046-373378b4-8125-4ff7-895c-c37f6f44e733.png)
