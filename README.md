@@ -127,3 +127,4 @@ public class Product {
 	}
 }
 
+![exercicio-resolvido](https://user-images.githubusercontent.com/61166475/155026145-1883b64e-49ca-47a8-bb1f-a4abe3b85061.png)
